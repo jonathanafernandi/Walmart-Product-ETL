@@ -120,6 +120,7 @@ This project was developed by Group INT-2 for the Data Engineering course:
 
 1. Jonathan Alvindo Fernandi (A207961)  
 2. Kevin Maverick (A208051)
+3. Lai Junlin (A197837)
 
 ---
 
